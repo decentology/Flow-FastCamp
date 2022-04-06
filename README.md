@@ -8,9 +8,9 @@ The Hyperverse FastCamp is a series of mini boot camps designed to help Web2 dev
 
 ## When are the FastCamps happening?
 
-[24 MAR - 28 MAR, 2022: Build for Ethereum](https://q5xg9k10cux.typeform.com/to/oyXFQcoU?typeform-source=go.hyperverse.dev) <br>
-[31 MAR - 4 APR, 2022: Build for Metis](https://q5xg9k10cux.typeform.com/to/tEjRsme1?typeform-source=go.hyperverse.dev) <br>
-[7 APR - 11 APR, 2022: Build for Flow](https://q5xg9k10cux.typeform.com/to/S7WXUU2Z?typeform-source=go.hyperverse.dev)
+[April 14 to April 18, 2022: Build for Ethereum](https://q5xg9k10cux.typeform.com/to/oyXFQcoU?typeform-source=go.hyperverse.dev)
+[April 21 to April 25, 2022: Build for Metis](https://q5xg9k10cux.typeform.com/to/tEjRsme1?typeform-source=go.hyperverse.dev)
+[April 7 to April 11, 2022: Build for Flow](https://q5xg9k10cux.typeform.com/to/S7WXUU2Z?typeform-source=go.hyperverse.dev)
 
 # Available Flow Modules
 
