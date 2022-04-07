@@ -59,6 +59,11 @@ DappStarter: Divide and Conquer </p>
 Smart Modules: Token Modules (Flow) <br>
 DappStarter: Token Marketplace </p>
 
+### williblue's Project Idea for Flow Dapp
+
+Create an "Inbox smart module" so others can send and receive NTFs or fungible tokens without having collections or vaults set up in advance.
+
+
 ## Join our community:
 [Discord](https://discord.com/invite/uqecGxg) | 
 [Discourse](forum.decentology.com) | 
