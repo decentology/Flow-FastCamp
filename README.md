@@ -59,6 +59,12 @@ DappStarter: Divide and Conquer </p>
 Smart Modules: Token Modules (Flow) <br>
 DappStarter: Token Marketplace </p>
 
+## bz's Project Idea for Flow Dapp
+
+### Pack NFT
+
+NBA Top Shot is the leading NFT project on Flow blockchain. They have created a digital experience that gives the same nostalgic feeling like opening a Pokémon Booster pack. I want to help anyone create an unpacking experience using the Hyperverse by creating a `Pack Smart Module`
+
 ## Join our community:
 [Discord](https://discord.com/invite/uqecGxg) | 
 [Discourse](forum.decentology.com) | 
