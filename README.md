@@ -69,6 +69,10 @@ NBA Top Shot is the leading NFT project on Flow blockchain. They have created a 
 
 Create an "Inbox smart module" so others can send and receive NTFs or fungible tokens without having collections or vaults set up in advance.
 
+### Create a k-12 volunteer Dapp
+
+Create a volunteer Dapp where k-12 clubs can give NFTs to their volunteers to earn points for volunteering their time, allowing them to earn incentives for community discounts. 
+
 ## Join our community:
 [Discord](https://discord.com/invite/uqecGxg) | 
 [Discourse](forum.decentology.com) | 
