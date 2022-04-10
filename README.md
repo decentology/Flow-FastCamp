@@ -73,6 +73,10 @@ Create an "Inbox smart module" so others can send and receive NTFs or fungible t
 
 Create a volunteer Dapp where k-12 clubs can give NFTs to their volunteers to earn points for volunteering their time, allowing them to earn incentives for community discounts. 
 
+### Hicham's Project Idea for Flow Dapp
+
+My objective for now is to create a user firendly marketplace, on Flow. 
+
 ## Join our community:
 [Discord](https://discord.com/invite/uqecGxg) | 
 [Discourse](forum.decentology.com) | 
