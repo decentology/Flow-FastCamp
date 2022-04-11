@@ -75,7 +75,7 @@ Create a volunteer Dapp where k-12 clubs can give NFTs to their volunteers to ea
 
 ### meharab's idea : reputation system
 
-Create a volunteer Dapp where DAO contributer can check their reputation point which later may help them to earn position in DAO.
+Create a Dapp where DAO contributer can check their reputation point which later may help them to earn position in DAO. contributer can earn token as reward by DAO and also can earn NFT for outstanding contribution.
 
 ## Join our community:
 [Discord](https://discord.com/invite/uqecGxg) | 
