@@ -71,7 +71,11 @@ Create an "Inbox smart module" so others can send and receive NTFs or fungible t
 
 ### Create a k-12 volunteer Dapp
 
-Create a volunteer Dapp where k-12 clubs can give NFTs to their volunteers to earn points for volunteering their time, allowing them to earn incentives for community discounts. 
+Create a volunteer Dapp where k-12 clubs can give NFTs to their volunteers to earn points for volunteering their time, allowing them to earn incentives for community discounts.
+
+### meharab's idea : reputation system
+
+Create a volunteer Dapp where DAO contributer can check their reputation point which later may help them to earn position in DAO.
 
 ## Join our community:
 [Discord](https://discord.com/invite/uqecGxg) | 
