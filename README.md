@@ -77,6 +77,10 @@ Create a volunteer Dapp where k-12 clubs can give NFTs to their volunteers to ea
 
 Create a Dapp where DAO contributer can check their reputation point which later may help them to earn position in DAO. contributer can earn token as reward by DAO and also can earn NFT for outstanding contribution.
 
+### Hicham's Project Idea for Flow Dapp
+
+My objective for now is to create a user firendly marketplace, on Flow. 
+
 ## Join our community:
 [Discord](https://discord.com/invite/uqecGxg) | 
 [Discourse](forum.decentology.com) | 
